@@ -7,5 +7,5 @@ I'm also interested in Blockchain and MVVM architecture.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AntiquePendulum&show_icons=trued&count_private=true&theme=radical" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiquePendulum&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiquePendulum&layout=compact&card_width=250" />
 </a>
