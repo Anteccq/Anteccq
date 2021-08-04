@@ -1,6 +1,6 @@
 ![AntiqueR](https://github.com/AntiquePendulum/AntiquePendulum/blob/master/Images/AntiqueR-simple_small.png)  
 I'm AntiqueR. I like **`C#`**, especially `.NET Core` and `WPF`! :)  
-I'm also interested in Blockchain and MVVM architecture.  
+I'm also interested in Blockchain, MVVM architecture and Discord Bot.  
 [Gist](https://gist.github.com/AntiquePendulum)
 
 
