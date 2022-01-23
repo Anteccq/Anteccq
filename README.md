@@ -1,7 +1,7 @@
 ![AntiqueR](https://github.com/Anteccq/Anteccq/blob/master/Images/AntiqueR-simple_small.png)  
-I'm AntiqueR. I like **`C#`**, especially `.NET Core` and `WPF`! :)  
+I'm AntiqueR. I like **`.NET (C#)`** ! I often develop Windows desktop application using WPF/UWP. :)  
 I'm also interested in Blockchain, MVVM architecture and Discord Bot.  
-[Gist](https://gist.github.com/AntiquePendulum)
+[Gist](https://gist.github.com/Anteccq)
 
 
 <a>
